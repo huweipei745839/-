@@ -1,2 +1,2 @@
-window.__ERP_LATEST_VER="2.0.32";
-window.__ERP_LATEST_NOTES="1. ERP对账单生成匹配工具\n2. 通过启动器静默自更新";
+window.__ERP_LATEST_VER="2.0.37";
+window.__ERP_LATEST_NOTES="ERP对账单生成匹配工具";
